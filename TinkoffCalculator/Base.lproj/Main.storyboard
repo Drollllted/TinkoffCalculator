@@ -19,7 +19,7 @@
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dfX-oC-fes">
                                 <rect key="frame" x="0.0" y="719.33333333333337" width="98.333333333333329" height="98.666666666666629"/>
-                                <color key="backgroundColor" name="AccentColor"/>
+                                <color key="backgroundColor" systemColor="placeholderTextColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title=",">
                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
@@ -31,7 +31,7 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3Fi-z2-Apz">
                                 <rect key="frame" x="98.333333333333329" y="719.33333333333337" width="196.33333333333337" height="98.666666666666629"/>
-                                <color key="backgroundColor" name="AccentColor"/>
+                                <color key="backgroundColor" systemColor="placeholderTextColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="0">
                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
@@ -43,7 +43,7 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ri0-fC-e5A">
                                 <rect key="frame" x="294.66666666666669" y="719.33333333333337" width="98.333333333333314" height="98.666666666666629"/>
-                                <color key="backgroundColor" name="AccentColor"/>
+                                <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="=">
                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
@@ -55,7 +55,7 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qiw-Rw-xR9">
                                 <rect key="frame" x="0.0" y="620.66666666666663" width="98.333333333333329" height="98.666666666666629"/>
-                                <color key="backgroundColor" name="AccentColor"/>
+                                <color key="backgroundColor" systemColor="placeholderTextColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="1">
                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
@@ -67,7 +67,7 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AmO-UF-T7B">
                                 <rect key="frame" x="98.333333333333343" y="620.66666666666663" width="98.333333333333343" height="98.666666666666629"/>
-                                <color key="backgroundColor" name="AccentColor"/>
+                                <color key="backgroundColor" systemColor="placeholderTextColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="2">
                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
@@ -79,7 +79,7 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="A4T-yp-s8b">
                                 <rect key="frame" x="196.66666666666666" y="620.66666666666663" width="97.999999999999972" height="98.666666666666629"/>
-                                <color key="backgroundColor" name="AccentColor"/>
+                                <color key="backgroundColor" systemColor="placeholderTextColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="3">
                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
@@ -103,7 +103,7 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RGI-lD-3fD">
                                 <rect key="frame" x="0.0" y="522" width="98.333333333333329" height="98.666666666666629"/>
-                                <color key="backgroundColor" name="AccentColor"/>
+                                <color key="backgroundColor" systemColor="placeholderTextColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="4">
                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
@@ -115,7 +115,7 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4aJ-jo-nxr">
                                 <rect key="frame" x="98.333333333333343" y="522" width="98.333333333333343" height="98.666666666666629"/>
-                                <color key="backgroundColor" name="AccentColor"/>
+                                <color key="backgroundColor" systemColor="placeholderTextColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="5">
                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
@@ -127,7 +127,7 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Dxp-0v-7mL">
                                 <rect key="frame" x="196.66666666666666" y="522" width="97.999999999999972" height="98.666666666666629"/>
-                                <color key="backgroundColor" name="AccentColor"/>
+                                <color key="backgroundColor" systemColor="placeholderTextColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="6">
                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
@@ -151,7 +151,7 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="q5H-p8-EKX">
                                 <rect key="frame" x="0.0" y="423.33333333333331" width="98.333333333333329" height="98.666666666666686"/>
-                                <color key="backgroundColor" name="AccentColor"/>
+                                <color key="backgroundColor" systemColor="placeholderTextColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="7">
                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
@@ -163,7 +163,7 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MT1-3A-AwR">
                                 <rect key="frame" x="98.333333333333343" y="423.33333333333331" width="98.333333333333343" height="98.666666666666686"/>
-                                <color key="backgroundColor" name="AccentColor"/>
+                                <color key="backgroundColor" systemColor="placeholderTextColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="8">
                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
@@ -175,7 +175,7 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zox-nA-SxT">
                                 <rect key="frame" x="196.66666666666666" y="423.33333333333331" width="97.999999999999972" height="98.666666666666686"/>
-                                <color key="backgroundColor" name="AccentColor"/>
+                                <color key="backgroundColor" systemColor="placeholderTextColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="9">
                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
@@ -198,8 +198,8 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eHL-gW-sm6">
-                                <rect key="frame" x="0.0" y="324.66666666666669" width="196.66666666666666" height="98.666666666666686"/>
-                                <color key="backgroundColor" name="AccentColor"/>
+                                <rect key="frame" x="0.0" y="324.66666666666669" width="294.66666666666669" height="98.666666666666686"/>
+                                <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="C">
                                     <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
@@ -207,18 +207,6 @@
                                 </buttonConfiguration>
                                 <connections>
                                     <action selector="buttonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="KVN-Iy-A0Z"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mIX-tj-hJd">
-                                <rect key="frame" x="196.66666666666666" y="324.66666666666669" width="97.999999999999972" height="98.666666666666686"/>
-                                <color key="backgroundColor" name="AccentColor"/>
-                                <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="%">
-                                    <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
-                                    <color key="baseForegroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                </buttonConfiguration>
-                                <connections>
-                                    <action selector="buttonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="YbG-m4-t8S"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GVL-ko-IJ6">
@@ -246,7 +234,6 @@
                             <constraint firstItem="3Fi-z2-Apz" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.5" id="5Xa-94-OC4"/>
                             <constraint firstItem="MT1-3A-AwR" firstAttribute="bottom" secondItem="4aJ-jo-nxr" secondAttribute="top" id="6ur-O4-6UW"/>
                             <constraint firstItem="Dxp-0v-7mL" firstAttribute="leading" secondItem="4aJ-jo-nxr" secondAttribute="trailing" id="7xc-65-1ne"/>
-                            <constraint firstItem="GVL-ko-IJ6" firstAttribute="leading" secondItem="mIX-tj-hJd" secondAttribute="trailing" id="9ZE-di-Ic3"/>
                             <constraint firstItem="Dxp-0v-7mL" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="9hK-1w-8vh"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="btc-MK-IRc" secondAttribute="trailing" id="9wp-6W-4rP"/>
                             <constraint firstItem="AmO-UF-T7B" firstAttribute="leading" secondItem="Qiw-Rw-xR9" secondAttribute="trailing" id="AkM-xm-7M8"/>
@@ -264,7 +251,6 @@
                             <constraint firstItem="Qiw-Rw-xR9" firstAttribute="bottom" secondItem="dfX-oC-fes" secondAttribute="top" id="Mh5-De-LPU"/>
                             <constraint firstItem="dfX-oC-fes" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="MzN-mc-W4A"/>
                             <constraint firstItem="lVd-eE-BAP" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="NIT-AK-OCk"/>
-                            <constraint firstItem="mIX-tj-hJd" firstAttribute="leading" secondItem="eHL-gW-sm6" secondAttribute="trailing" id="OYL-L6-NXb"/>
                             <constraint firstItem="m9p-AB-wHn" firstAttribute="bottom" secondItem="Ri0-fC-e5A" secondAttribute="top" id="Ogt-TQ-fwy"/>
                             <constraint firstItem="btc-MK-IRc" firstAttribute="bottom" secondItem="lVd-eE-BAP" secondAttribute="top" id="PG6-zg-gAp"/>
                             <constraint firstItem="Ri0-fC-e5A" firstAttribute="leading" secondItem="3Fi-z2-Apz" secondAttribute="trailing" id="RFK-5l-ahF"/>
@@ -272,9 +258,8 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="lVd-eE-BAP" secondAttribute="trailing" id="Sp6-m4-n0t"/>
                             <constraint firstItem="q5H-p8-EKX" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="UXR-Bv-9cw"/>
                             <constraint firstItem="m9p-AB-wHn" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="Uxb-95-iK1"/>
-                            <constraint firstItem="eHL-gW-sm6" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.5" id="Wdd-DQ-3w3"/>
+                            <constraint firstItem="eHL-gW-sm6" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.75" id="Wdd-DQ-3w3"/>
                             <constraint firstItem="RGI-lD-3fD" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="Wdf-X9-K9U"/>
-                            <constraint firstItem="mIX-tj-hJd" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="Wzj-vq-3xr"/>
                             <constraint firstItem="btc-MK-IRc" firstAttribute="leading" secondItem="zox-nA-SxT" secondAttribute="trailing" id="XXq-ea-MFi"/>
                             <constraint firstItem="AmO-UF-T7B" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="aGC-K9-2Ba"/>
                             <constraint firstItem="RGI-lD-3fD" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="aUV-rE-FR4"/>
@@ -287,17 +272,16 @@
                             <constraint firstItem="m9p-AB-wHn" firstAttribute="leading" secondItem="A4T-yp-s8b" secondAttribute="trailing" id="db0-Vc-RHo"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Ri0-fC-e5A" secondAttribute="trailing" id="frx-qW-IiT"/>
                             <constraint firstItem="AmO-UF-T7B" firstAttribute="bottom" secondItem="3Fi-z2-Apz" secondAttribute="top" id="g98-UT-Z4W"/>
-                            <constraint firstItem="mIX-tj-hJd" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="gmO-K9-li1"/>
                             <constraint firstItem="Ri0-fC-e5A" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="hUs-co-hW2"/>
                             <constraint firstItem="Qiw-Rw-xR9" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="hwI-HG-Iac"/>
                             <constraint firstItem="zox-nA-SxT" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="i5t-Ah-1vR"/>
                             <constraint firstItem="Qiw-Rw-xR9" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="i6z-dF-EPo"/>
+                            <constraint firstItem="GVL-ko-IJ6" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="eHL-gW-sm6" secondAttribute="trailing" id="jm2-6H-MsB"/>
                             <constraint firstItem="zox-nA-SxT" firstAttribute="bottom" secondItem="Dxp-0v-7mL" secondAttribute="top" id="kIV-Ee-858"/>
                             <constraint firstItem="4aJ-jo-nxr" firstAttribute="bottom" secondItem="AmO-UF-T7B" secondAttribute="top" id="kix-Le-MwK"/>
                             <constraint firstItem="lVd-eE-BAP" firstAttribute="bottom" secondItem="m9p-AB-wHn" secondAttribute="top" id="mKM-5i-Kem"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Ri0-fC-e5A" secondAttribute="bottom" id="mda-db-4sI"/>
                             <constraint firstItem="MT1-3A-AwR" firstAttribute="leading" secondItem="q5H-p8-EKX" secondAttribute="trailing" id="nPG-Lr-BYt"/>
-                            <constraint firstItem="mIX-tj-hJd" firstAttribute="bottom" secondItem="zox-nA-SxT" secondAttribute="top" id="nVG-Zv-aSc"/>
                             <constraint firstItem="eHL-gW-sm6" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="nnr-We-T81"/>
                             <constraint firstItem="4aJ-jo-nxr" firstAttribute="width" secondItem="6Tk-OE-BBY" secondAttribute="width" multiplier="0.25" id="oSo-QX-vej"/>
                             <constraint firstItem="zox-nA-SxT" firstAttribute="height" secondItem="6Tk-OE-BBY" secondAttribute="height" multiplier="0.13" id="q6e-Lw-Re7"/>
@@ -326,8 +310,14 @@
         <namedColor name="AccentColor">
             <color red="0.0" green="0.46000000000000002" blue="0.89000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
+        <systemColor name="placeholderTextColor">
+            <color red="0.23529411764705882" green="0.23529411764705882" blue="0.2627450980392157" alpha="0.29803921568627451" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemOrangeColor">
+            <color red="1" green="0.58431372549019611" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
